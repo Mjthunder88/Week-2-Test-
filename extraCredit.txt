@@ -1,0 +1,13 @@
+1. Adobe
+2. Apple
+3. Microsoft
+
+Adobe: Adobe has 439 jobs just for Engineering which includes Front end web dev, cloud engineers, quailty engineers, computer sicentest etc.They also have 396 jobs just for design in their products. 
+For software Dev you will be apart of a team to help innovate new features and maintaing old ones. 
+They look for individuals that have 5+ years of experince and that have skills in using JS Express and Webpack.
+
+Apple: has over 600+ rolse in designing their products. They have Data Protection Engineers and Software Engineers as well as AR/VR devs.
+For the softare Dev, they want to see skills in Objective-C, Swift or C++ having a passion for quality and attention to detail. 
+This role requires you to be apart of a team. As well as working with internal clients to ensure that you're meeting their requirments. 
+
+Microsoft: They have over 3000 current jobs that you can apply for. Which include Software Engineer's, security analyst, Wan Seniro Serice Engineer etc.
